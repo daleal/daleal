@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi! My name is Daniel Leal 🐳
 
-<!--
-**daleal/daleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student, currently working as a Software Engineer at The Not Company. I really enjoy coding and learning about computers. I hope that you find what you're looking for!
 
-Here are some ideas to get you started:
+### Some of the things that I've done ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![symmetric](https://github-readme-stats.vercel.app/api/pin/?username=daleal&repo=symmetric&show_owner=true&theme=radical)](https://github.com/daleal/symmetric)
+
+[![express-api](https://github-readme-stats.vercel.app/api/pin/?username=daleal&repo=express-api&show_owner=true&theme=radical)](https://github.com/daleal/express-api)
+
+### More about me
+
+[![daleal's github stats](https://github-readme-stats.vercel.app/api?username=daleal&count_private=true&show_icons=true&theme=radical)](https://github.com/daleal)
