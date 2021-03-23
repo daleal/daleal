@@ -4,9 +4,9 @@ I'm a Computer Science student, currently working as a Software Engineer at The 
 
 ### Some of the things that I've done ✨
 
-[![asymmetric](https://github-readme-stats.vercel.app/api/pin/?username=daleal&repo=asymmetric&show_owner=true&theme=radical)](https://github.com/daleal/asymmetric)
+[![zum](https://github-readme-stats.vercel.app/api/pin/?username=daleal&repo=zum&show_owner=true&theme=radical)](https://github.com/daleal/zum)
 
-[![symmetric](https://github-readme-stats.vercel.app/api/pin/?username=daleal&repo=symmetric&show_owner=true&theme=radical)](https://github.com/daleal/symmetric)
+[![asymmetric](https://github-readme-stats.vercel.app/api/pin/?username=daleal&repo=asymmetric&show_owner=true&theme=radical)](https://github.com/daleal/asymmetric)
 
 [![docker-walkthrough](https://github-readme-stats.vercel.app/api/pin/?username=daleal&repo=docker-walkthrough&show_owner=true&theme=radical)](https://github.com/daleal/docker-walkthrough)
 
