@@ -1,6 +1,6 @@
 ## Hi! My name is Daniel Leal 🐳
 
-I'm a Computer Science student, currently working as a Software Engineer at The Not Company. I really enjoy coding and learning about computers, and I **love** open source 💖. I hope that you find what you're looking for!
+I'm a Computer Science student, currently working as a Software Engineer at Con Yappa. I really enjoy coding and learning about computers, and I **love** open source 💖. I hope that you find what you're looking for!
 
 ### Some of the things that I've done ✨
 
