@@ -1,6 +1,6 @@
 ## Hi! My name is Daniel Leal 🐳
 
-I'm a Computer Science student, with experience as a Software Engineer. I really enjoy coding and learning about computers, and I **love** open source 💖. I hope that you find what you're looking for!
+I'm a Computer Science student, with experience as a Software Engineer, currently working as a Developer Advocate at Fintoc. I really enjoy coding and learning about computers, and I **love** open source 💖. I hope that you find what you're looking for!
 
 ### Some of the things that I've done ✨
 
@@ -10,7 +10,7 @@ I'm a Computer Science student, with experience as a Software Engineer. I really
 
 [![docker-walkthrough](https://github-readme-stats.vercel.app/api/pin/?username=daleal&repo=docker-walkthrough&show_owner=true&theme=radical)](https://github.com/daleal/docker-walkthrough)
 
-[![fintoc-node](https://github-readme-stats.vercel.app/api/pin/?username=fintoc-com&repo=fintoc-node&show_owner=true&theme=radical)](https://github.com/fintoc-com/fintoc-node)
+[![fintoc-python](https://github-readme-stats.vercel.app/api/pin/?username=fintoc-com&repo=fintoc-python&show_owner=true&theme=radical)](https://github.com/fintoc-com/fintoc-python)
 
 ### More about me
 
