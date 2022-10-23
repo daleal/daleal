@@ -1,6 +1,6 @@
 ## Hi! My name is Daniel Leal 🐳
 
-I'm a Computer Science student, with experience as a Software Engineer, currently working as a Developer Advocate at Fintoc. I really enjoy coding and learning about computers, and I **love** open source 💖. I hope that you find what you're looking for!
+I'm a Software Engineer, currently working at Fintoc. I really enjoy coding and learning about software, computers and technology, and I **love** open source 💖. I hope that you find what you're looking for!
 
 ### Some of the things that I've done ✨
 
